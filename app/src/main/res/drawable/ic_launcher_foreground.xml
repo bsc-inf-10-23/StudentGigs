@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Graduation Cap Top Diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L84,42 L54,54 L24,42 Z" />
+
+    <!-- Cap Base / Skullcap -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,48 L38,58 C38,63 70,63 70,58 L70,48 L54,54 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M78,43 L78,57 A3,3 0 1 0 81,57 L81,43 Z" />
+
+    <!-- Briefcase / Service Badge Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,64 C34,61.8 35.8,60 38,60 L70,60 C72.2,60 74,61.8 74,64 L74,80 C74,82.2 72.2,84 70,84 L38,84 C35.8,84 34,82.2 34,80 Z" />
+
+    <!-- Briefcase Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:pathData="M46,60 L46,57 C46,55.3 47.3,54 49,54 L59,54 C60.7,54 62,55.3 62,57 L62,60" />
+
+    <!-- Star Emblem on Briefcase -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,66 L55.8,69.6 L59.8,70.2 L56.9,73 L57.6,77 L54,75.1 L50.4,77 L51.1,73 L48.2,70.2 L52.2,69.6 Z" />
+
+</vector>
